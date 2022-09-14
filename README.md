@@ -2,9 +2,9 @@
 Websites Project
 ## Reminders
 - None Yet
-[]CHECKBOX
+[ ]CHECKBOX
 [x]CHECKEDBOX
-<del>[x]CROSSOUT </del>
+[x]<del>CROSSOUT </del>
 ---
 ### To Do List
 - Create A To Do List
